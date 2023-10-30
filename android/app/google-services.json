@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "796732922348",
+    "firebase_url": "https://rkams-d9279-default-rtdb.firebaseio.com",
+    "project_id": "rkams-d9279",
+    "storage_bucket": "rkams-d9279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796732922348:android:fcf4ab8001b4c5bae588c9",
+        "android_client_info": {
+          "package_name": "com.example.ams"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-xUiJor-JEnUlB8f1kM9OGWT-NMcAHl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
